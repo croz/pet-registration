@@ -8,6 +8,7 @@ tmp/**/*
 local.properties
 .classpath
 .settings/
+.project
 .loadpath
  
 # External tool builders
