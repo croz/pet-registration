@@ -1,2 +1,2 @@
-# BasicProject
-Warm-UP Day 4
+# Pet project
+Pet project Day 6
